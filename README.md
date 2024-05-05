@@ -4,19 +4,19 @@ This is a simple YouTube downloader app using Pytube and Streamlit. Download vid
 ## Demo
 <img width="1166" alt="Youtube_downloader" src="https://github.com/Ajay1812/Youtube_Downloader/assets/81603467/4ad4dbd3-4567-4309-a9dd-548be369cfd1">
 
-## Clone this repository to your local machine:
+### Clone this repository to your local machine:
 
 ```Run 
   git clone https://github.com/Ajay1812/Youtube_Downloader.git
 ```
 
-## Navigate to the directory
+### Navigate to the directory
 
 ```Run 
   cd Youtube_Downloader
 ```
 
-## Run Locally
+### Run Locally
 
 ```Run 
   streamlit run app.py
